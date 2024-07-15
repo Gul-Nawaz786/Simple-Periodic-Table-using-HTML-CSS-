@@ -1,0 +1,50 @@
+
+h2,H4{
+    text-align: center;
+}
+
+td{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    
+    
+}
+.number{
+    line-height: 0;
+    font-size: 10px;
+    font-weight: bold;
+}
+.name{
+    line-height: 0;
+    font-weight: bold;
+}
+.color1{
+    
+    background: linear-gradient(to top, #00ff99 18%, #66ff33 100%);
+}
+.color2{
+    background: linear-gradient(to bottom, #ff6666 18%, #ff99ff 100%);
+
+}
+.color3{
+    background: linear-gradient(to bottom, #ff6600 18%, #ff66cc 100%);
+}
+.color4{
+    background: linear-gradient(to left, #ff6666 18%, #ffff00 100%);
+}
+.color5{
+    background: linear-gradient(to right, #ccff33 18%, #ffff00 100%);
+}
+.color6{
+    background: linear-gradient(to right, #cc66ff 18%, #0066ff 100%);
+}
+.color7{
+    background: linear-gradient(to right, #cc33ff 18%, #ff99cc 100%);
+}
+.color8{
+    background: linear-gradient(to right, #cc66ff 18%, #0066ff 100%);}
+.color9{
+    background: linear-gradient(to bottom left, #ffccff 18%, #0066ff 100%);
+
+}
